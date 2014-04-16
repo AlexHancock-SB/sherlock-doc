@@ -1,0 +1,146 @@
+{
+  "title": "Policy Transactions",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "1": {
+      "title": "T",
+      "id": 3
+    },
+    "11": {
+      "title": "T",
+      "id": 4,
+      "attr": {
+        "style": {
+          "background": "#E0E0E0"
+        }
+      }
+    },
+    "21": {
+      "title": "T",
+      "id": 5,
+      "attr": {
+        "style": {
+          "background": "#E0E0E0"
+        }
+      }
+    },
+    "31": {
+      "title": "T",
+      "id": 6,
+      "attr": {
+        "style": {
+          "background": "#E0E0E0"
+        }
+      }
+    },
+    "41": {
+      "title": "T",
+      "id": 7,
+      "attr": {
+        "style": {
+          "background": "#E0E0E0"
+        }
+      }
+    },
+    "51": {
+      "title": "T",
+      "id": 8,
+      "attr": {
+        "style": {
+          "background": "#E0E0E0"
+        }
+      }
+    },
+    "61": {
+      "title": "T",
+      "id": 9,
+      "attr": {
+        "style": {
+          "background": "#E0E0E0"
+        }
+      }
+    },
+    "-36": {
+      "title": "T",
+      "id": 22,
+      "attr": {
+        "style": {
+          "background": "#E0E0E0"
+        }
+      }
+    },
+    "-26": {
+      "title": "T",
+      "id": 21,
+      "attr": {
+        "style": {
+          "background": "#E0E0E0"
+        }
+      }
+    },
+    "-16": {
+      "title": "T",
+      "id": 20,
+      "attr": {
+        "style": {
+          "background": "#E0E0E0"
+        }
+      }
+    },
+    "-15": {
+      "title": "T",
+      "id": 19,
+      "attr": {
+        "style": {
+          "background": "#E0E0E0"
+        }
+      }
+    },
+    "-14": {
+      "title": "T",
+      "id": 18,
+      "attr": {
+        "style": {
+          "background": "#E0E0E0"
+        }
+      }
+    },
+    "-13": {
+      "title": "T",
+      "id": 17,
+      "attr": {
+        "style": {
+          "background": "#E0E0E0"
+        }
+      }
+    },
+    "-12": {
+      "title": "T",
+      "id": 16,
+      "attr": {
+        "style": {
+          "background": "#E0E0E0"
+        }
+      }
+    },
+    "-11": {
+      "title": "T",
+      "id": 15,
+      "attr": {
+        "style": {
+          "background": "#E0E0E0"
+        }
+      }
+    },
+    "-10": {
+      "title": "T",
+      "id": 10,
+      "attr": {
+        "style": {
+          "background": "#E0E0E0"
+        }
+      }
+    }
+  }
+}
